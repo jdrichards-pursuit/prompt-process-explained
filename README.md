@@ -1,6 +1,8 @@
-# What happens when you send a prompt
+# What happens when you send a prompt?
 
 <img src="./assets/prompt.webp" alt="Prompt Processing" width="500">
+
+This is a high-level overview of what happens when you send a prompt to OpenAI's API.
 
 ## 1. You Send a Prompt
 
