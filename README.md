@@ -1,6 +1,6 @@
 # What happens when you send a prompt
 
-<img src="assets/prompt.png" alt="Prompt Processing" width="500">
+<img src="./assets/prompt.tiff" alt="Prompt Processing" width="500">
 
 ## 1. You Send a Prompt
 
