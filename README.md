@@ -1,4 +1,4 @@
-# What happens when you send a prompt?
+# What Process is Behind the Scenes When You Send a Prompt?
 
 <img src="./assets/prompt.webp" alt="Prompt Processing" width="500">
 
