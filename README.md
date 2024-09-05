@@ -1,6 +1,6 @@
 # What happens when you send a prompt
 
-<img src="https://github.com/marceline-ai/marceline/blob/main/docs/images/prompt-processing.png?raw=true" alt="Prompt Processing" width="500">
+<img src="assets/prompt.png" alt="Prompt Processing" width="500">
 
 ## 1. You Send a Prompt
 
