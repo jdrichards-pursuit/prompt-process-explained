@@ -1,5 +1,7 @@
 # AI Language Model Quiz
 
+<img src="./assets/question-mark.webp" alt="Quiz" width="500">
+
 Let's test your knowledge of how AI language models work.
 
 ### 1. What happens first when you send a prompt to the OpenAI API?
