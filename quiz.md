@@ -1,6 +1,6 @@
 # AI Language Model Quiz
 
-<img src="./assets/question-mark.webp" alt="Quiz" width="500">
+<img src="./assets/question-mark.webp" alt="Quiz" width="300">
 
 Let's test your knowledge of how AI language models work.
 
