@@ -67,3 +67,5 @@ Once the model has finished predicting the sequence of tokens (one by one), it c
 - **Tokens** are not always the same as words—they can be parts of words or symbols, and the model processes them one at a time to generate a response.
 
 [Back to Lesson](https://github.com/jdrichards-pursuit/week-6.1-prompt-engineering-theory/blob/main/lesson.ipynb)
+
+[Test Your Knowledge](./quiz.md)
