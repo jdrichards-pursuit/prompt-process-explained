@@ -66,4 +66,4 @@ Once the model has finished predicting the sequence of tokens (one by one), it c
 - **Inference** is the process where the model predicts the response, token by token.
 - **Tokens** are not always the same as words—they can be parts of words or symbols, and the model processes them one at a time to generate a response.
 
-This breakdown gives a step-by-step explanation of what happens when you send a prompt to OpenAI’s API!
+[Back to Lesson](https://github.com/jdrichards-pursuit/week-6.1-prompt-engineering-theory/blob/main/lesson.ipynb)
