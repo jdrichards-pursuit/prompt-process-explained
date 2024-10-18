@@ -51,7 +51,7 @@ Once the model has finished predicting the sequence of tokens (one by one), it c
 
 Here is a visual representation of the process:
 
-<img src="./assets/prompt-process.png" alt="Prompt Processing" width="800">
+<img src="./assets/prompt-process.png" alt="Prompt Processing" width="1000">
 
 # Summary with Key Concepts:
 
