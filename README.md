@@ -49,6 +49,10 @@ Once the model has finished predicting the sequence of tokens (one by one), it c
 
 ---
 
+Here is a visual representation of the process:
+
+<img src="./assets/prompt-process.png" alt="Prompt Processing" width="500">
+
 # Summary with Key Concepts:
 
 1. **Prompt**: You send a prompt to the API.
